@@ -18,10 +18,10 @@
   "homepage": "https://github.com/ExeQ/test#readme",
   "dependencies": {
     "myapp": "0.0.0-1"
-  }
+  },
   "cozy-permissions": {
         "Contact": {
             "description": "test perm"
-        },
+        }
   }
 }
